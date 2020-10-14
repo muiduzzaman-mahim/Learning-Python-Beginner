@@ -1,5 +1,5 @@
 #start
-
+ 
 print('Enter The exam mark')
 a =float(input())
 
