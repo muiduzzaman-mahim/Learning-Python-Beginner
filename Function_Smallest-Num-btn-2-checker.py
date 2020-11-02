@@ -1,4 +1,4 @@
-def largest_num(num1,num2):
+def smallest_num(num1,num2):
     if num1 < num2:
         print('{} is the smallest number'.format(num1))
     else:
@@ -8,4 +8,4 @@ print('Enter two numbers to check which is smallest:\n')
 num1 = int(input())
 num2 = int(input())
 
-largest_num(num1, num2)
+smallest_num(num1, num2)
