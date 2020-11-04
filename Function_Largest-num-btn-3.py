@@ -10,7 +10,7 @@ def largest_num_3(num1, num2, num3):
         else:
             print('{} is the largest number'.format(num3))
         
-print('Enter three numbers to check which is largest among 3:\n')
+print('\nEnter three numbers to check which is largest among 3:')
 num1 = int(input())
 num2 = int(input())
 num3 = int(input())

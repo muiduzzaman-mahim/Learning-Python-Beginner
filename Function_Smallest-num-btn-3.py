@@ -10,7 +10,7 @@ def smallest_num_3(num1, num2, num3):
         else:
             print('{} is the smallest number'.format(num3))
         
-print('Enter three numbers to check which is smallest among 3:\n')
+print('\nEnter three numbers to check which is smallest among 3:')
 num1 = int(input())
 num2 = int(input())
 num3 = int(input())

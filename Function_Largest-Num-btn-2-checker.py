@@ -4,7 +4,7 @@ def largest_num(num1,num2):
     else:
         print('{} is the largest number'.format(num2))
 
-print('Enter two numbers to check which is largest:\n')
+print('\nEnter two numbers to check which is largest:')
 num1 = int(input())
 num2 = int(input())
 
