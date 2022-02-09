@@ -1,0 +1,4 @@
+We need to learn (Python):
+1. File,
+2. Function,
+3. Data Structures (Dictionary, Set)
