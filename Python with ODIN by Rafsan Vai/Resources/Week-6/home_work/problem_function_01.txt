@@ -1,0 +1,12 @@
+problem:
+
+
+(who has even birthday date)
+1.write a function that will check your birthday is even or odd
+2.write a program that will take 2 number and retrun the largest number 
+
+
+(who has odd birthday date)
+1.write a function that will check your birthday is even or odd
+2.write a program that will take 2 number and retrun the smallest number 
+
